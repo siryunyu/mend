@@ -1,0 +1,23 @@
+# Written by Superbot when it created this project folder.
+node_modules/
+.wrangler/
+.vite/
+.next/
+.nuxt/
+.turbo/
+.parcel-cache/
+.cache/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.venv/
+.gradle/
+.godot/
+dist/
+out/
+coverage/
+*.log
+.env
+.env.*
+!.env.example
+.DS_Store
